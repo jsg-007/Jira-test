@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-AREQUESTID: 805x1347716x1
+X-ASEN: SEN-4201696
+Set-Cookie: JSESSIONID=31BA9D85ED3CB66279D4235A911E5FB4; Path=/; HttpOnly
+X-Seraph-LoginReason: OK
+Set-Cookie: atlassian.xsrf.token=B6IN-M3W8-H0VH-8VVQ|0c7b137d3ddbfa5988dd80a9b8b5d7fcdb8c89fe|lin; Path=/
+X-ASESSIONID: 1kz87dw
+X-AUSERNAME: AnalyticsWebform
+Cache-Control: no-cache, no-store, no-transform
+X-Content-Type-Options: nosniff
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Mon, 09 Jan 2017 18:25:31 GMT
+
+{"expand":"projects","projects":[{"self":"http://jiraanalyticsv.mdc.musc.edu:8080/rest/api/2/project/10653","id":"10653","key":"ARM","name":"MUSC Health Analytics Requests","avatarUrls":{"48x48":"http://jiraanalyticsv.mdc.musc.edu:8080/secure/projectavatar?pid=10653&avatarId=10011","24x24":"http://jiraanalyticsv.mdc.musc.edu:8080/secure/projectavatar?size=small&pid=10653&avatarId=10011","16x16":"http://jiraanalyticsv.mdc.musc.edu:8080/secure/projectavatar?size=xsmall&pid=10653&avatarId=10011","32x32":"http://jiraanalyticsv.mdc.musc.edu:8080/secure/projectavatar?size=medium&pid=10653&avatarId=10011"},"issuetypes":[{"self":"http://jiraanalyticsv.mdc.musc.edu:8080/rest/api/2/issuetype/10000","id":"10000","description":"Created by JIRA Agile - do not edit or delete. Issue type for a big user story that needs to be broken down.","iconUrl":"http://jiraanalyticsv.mdc.musc.edu:8080/secure/viewavatar?size=xsmall&avatarId=10505&avatarType=issuetype","name":"Epic Documentation","subtask":false},{"self":"http://jiraanalyticsv.mdc.musc.edu:8080/rest/api/2/issuetype/10001","id":"10001","description":"Created by JIRA Agile - do not edit or delete. Issue type for a user story.","iconUrl":"http://jiraanalyticsv.mdc.musc.edu:8080/secure/viewavatar?size=xsmall&avatarId=10511&avatarType=issuetype","name":"Story","subtask":false},{"self":"http://jiraanalyticsv.mdc.musc.edu:8080/rest/api/2/issuetype/3","id":"3","description":"A task that needs to be done.","iconUrl":"http://jiraanalyticsv.mdc.musc.edu:8080/secure/viewavatar?size=xsmall&avatarId=10502&avatarType=issuetype","name":"Task","subtask":false},{"self":"http://jiraanalyticsv.mdc.musc.edu:8080/rest/api/2/issuetype/5","id":"5","description":"Sub-task","iconUrl":"http://jiraanalyticsv.mdc.musc.edu:8080/secure/viewavatar?size=xsmall&avatarId=10501&avatarType=issuetype","name":"Sub-task","subtask":true},{"self":"http://jiraanalyticsv.mdc.musc.edu:8080/rest/api/2/issuetype/10200","id":"10200","description":"","iconUrl":"http://jiraanalyticsv.mdc.musc.edu:8080/images/icons/issuetypes/genericissue.png","name":"Bug","subtask":false}]}]}
